@@ -1,4 +1,4 @@
-# Hello!
+# Hello Guys!
 I'm Vasan Dilaksan, a passionate programer and cybersecurity enthusiast.
 
 ## Projects
@@ -28,5 +28,10 @@ I'm Vasan Dilaksan, a passionate programer and cybersecurity enthusiast.
 * Languages: C, Python, Bash, PowerShell, Javascript, PHP
 * Networking: Network Protocols, Socket operations.
 
+**Github Statistics**
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberForgeEx&theme=tokyonight&hide_border=true"/>
+</p>
+  
 ## Contact Me
 You can reach me at <vasandilaksan@gmail.com>
