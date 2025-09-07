@@ -32,6 +32,12 @@ I'm Vasan Dilaksan, a passionate programer and cybersecurity enthusiast.
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberForgeEx&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+<p align="center">
+  <em>"Anyone can write code that a computer can understand. Good programmers write code that humans can understand."</em>
+</p>
   
 ## Contact Me
 You can reach me at <vasandilaksan@gmail.com>
