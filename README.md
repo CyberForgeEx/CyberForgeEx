@@ -40,7 +40,7 @@ I'm Vasan Dilaksan, a passionate programer and cybersecurity enthusiast.
 </p>
 
 <p align="right">
-    <img src ="https://komarev.com/ghpvc/?username=CyberForgeEx&label=PROFILE+VIEWS"/>
+    <img src ="https://komarev.com/ghpvc/?username=CyberForgeEx&label=Profile+Views&color=blueviolet"/>
 </p>
   
 ## Contact Me
