@@ -38,6 +38,10 @@ I'm Vasan Dilaksan, a passionate programer and cybersecurity enthusiast.
 <p align="center">
   <em>"Anyone can write code that a computer can understand. Good programmers write code that humans can understand."</em>
 </p>
+
+<p align="right">
+    <img src ="https://komarev.com/ghpvc/?username=CyberForgeEx&label=PROFILE+VIEWS"/>
+</p>
   
 ## Contact Me
 You can reach me at <vasandilaksan@gmail.com>
