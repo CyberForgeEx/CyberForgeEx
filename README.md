@@ -22,7 +22,7 @@ I'm Vasan Dilaksan, a passionate programer and cybersecurity enthusiast.
 ## Technical Expertise
 **Security Tools & Frameworks:**
 * Vulnerability & Penetration Testing: Burp Suite, Nmap, Metasploit, Nessus, OWASP ZAP
-* Operating Systems: Windows, Linux (Ubuntu, Kali), Command-line Interface
+* Operating Systems: Windows, Linux (Ubuntu, Kali), Comfortable with both - CLI & GUI.
 
 **Programming & Development:**
 * Languages: C, Python, Bash, PowerShell, Javascript, PHP
