@@ -1,5 +1,5 @@
 # Hello Guys!
-I'm Vasan Dilaksan, a passionate programer and cybersecurity enthusiast.
+I'm Vasan Dilaksan, a curious programmer and cybersecurity enthusiast.
 
 ## Projects
 * [BlackHatOps](https://github.com/CyberForgeEx/BlackHatOps) – Basic Offensive Security operations with C programs for reverse shells, remote process injection, and custom backdoor implementations.
