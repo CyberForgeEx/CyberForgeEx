@@ -35,7 +35,7 @@ I'm Vasan Dilaksan, a curious programmer and cybersecurity enthusiast.
 
 ---
 
-<p align="right">
+<p align="center">
   <img src= "https://github-profile-trophy.vercel.app/?username=CyberForgeEx&row=1&column=6&theme=aura&no-frame=true&margin-w=5&title=Commits,MultiLanguage,Repositories,Stars,Experience,PullRequest"/>
 </p>
 
