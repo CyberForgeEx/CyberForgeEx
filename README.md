@@ -35,6 +35,10 @@ I'm Vasan Dilaksan, a curious programmer and cybersecurity enthusiast.
 
 ---
 
+<p align="right">
+  <img src= "https://github-profile-trophy.vercel.app/?username=CyberForgeEx&row=1&column=6&theme=aura&no-frame=true&margin-w=5&title=Commits,MultiLanguage,Repositories,Stars,Experience,PullRequest"/>
+</p>
+
 <p align="center">
   <em>"Anyone can write code that a computer can understand. Good programmers write code that humans can understand."</em>
 </p>
