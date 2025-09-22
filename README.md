@@ -32,7 +32,7 @@ I'm Vasan Dilaksan, a curious programmer and cybersecurity enthusiast.
 **Github Statistics**
 </br>
 
-![CyberForgeEx's Stats](https://github-readme-stats.vercel.app/api?username=CyberForgeEx&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![CyberForgeEx's Stats](https://streak-stats.demolab.com?user=CyberForgeEx&theme=tokyonight&border_radius=25)
 
 ---
 
