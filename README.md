@@ -29,10 +29,13 @@ I'm Vasan Dilaksan, a curious programmer and cybersecurity enthusiast.
 * Languages: C, Python, Bash, PowerShell, Javascript, PHP
 * Networking: Network Protocols, Socket operations.
 
-**Github Statistics**
+**Current Statistics**
 </br>
 
-![CyberForgeEx's Stats](https://streak-stats.demolab.com?user=CyberForgeEx&theme=tokyonight&border_radius=25)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CyberForgeEx&theme=tokyonight&border_radius=20"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/CyberForgeSmith.png" height=400 width=350/>
+</p>
 
 ---
 
