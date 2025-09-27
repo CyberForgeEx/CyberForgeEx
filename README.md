@@ -11,6 +11,7 @@
 * Conducting ethical hacking exercises and penetration testing challenges.
 * Mastering tools like Nmap, Metasploit, Burp Suite, and Wireshark.
 * Building expertise in complete cybersecurity infrastructure.
+* Approaching Offensive security from an defensive perspective.
 
 ## Education & Certifications
 * **Computer Science Foundations (CS50x)** - Harvard University (August 2025 - Present)
@@ -23,10 +24,11 @@
 **Security Tools & Frameworks:**
 * Vulnerability & Penetration Testing: Burp Suite, Nmap, Metasploit, Nessus, OWASP ZAP
 * Operating Systems: Windows, Linux (Ubuntu, Kali), Comfortable with both - CLI & GUI.
+* Ability disect the inner working principles of security tools.
 
 **Programming & Development:**
-* Languages: C, Python, Bash, PowerShell, Javascript, PHP
-* Networking: Network Protocols, Socket operations.
+* Languages: C, Python, Bash, PowerShell, Javascript, C#, ASM (x86)
+* Networking: Network Protocols, Socket operations, All Core concepts of networks.
 
 **Current Statistics**
 </br>
