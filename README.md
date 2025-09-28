@@ -4,6 +4,7 @@
 * [BlackHatOps](https://github.com/CyberForgeEx/BlackHatOps) – Basic Offensive Security operations with C programs for reverse shells, remote process injection, and custom backdoor implementations.
 * [EntroPass](https://github.com/CyberForgeEx/EntroPass) - Password strength checker based on shannon's entropy with computational cracking time.
 * [PSMultiTool](https://github.com/CyberForgeEx/PSMultiTool) - Simple System administration utilities for Windows.
+* [IdeaForgeAI](https://ideaforgeai05.pythonanywhere.com/) - AI-powered tool that is designed to evaluate your software project ideas and provide insights.
 *  Currently researching about how the each an every technical concepts working on the art of exploitation. 
 
 ## Things that I love to do.
