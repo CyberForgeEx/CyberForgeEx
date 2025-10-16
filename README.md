@@ -15,7 +15,7 @@
 * Approaching Offensive security from an defensive perspective.
 
 ## Education & Certifications
-* **Computer Science Foundations (CS50x)** - Harvard University (August 2025 - Present)
+* **Computer Science Foundations (CS50x)** - Harvard University (July 2025 - October 2025)
 * **Certified Ethical Hacker (CEH v13)** - EC-Council via Edoxi Institute (March 2025 - May 2025)
 * **Diploma in Ethical Hacking** - Alison (January 2023 - April 2023)
 * **Linux Fundamentals** - Cybrary
