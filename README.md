@@ -5,7 +5,7 @@
 * [EntroPass](https://github.com/CyberForgeEx/EntroPass) - Password strength checker based on shannon's entropy with computational cracking time.
 * [PowerBash](https://github.com/CyberForgeEx/PowerBash) - Simple System administration utilities for Windows and Linux.
 * [IdeaForgeAI](https://www.ideaforgeai.online/) - AI-powered tool that is designed to evaluate your software project ideas and provide insights.
-*  Currently researching about how the each an every technical concepts working on the art of exploitation. 
+*  Currently researching about how the each an every technical concepts working on the art of exploitation.
 
 ## Things that I love to do.
 * Building solutions to solve a security problems through programming and automation.
@@ -31,27 +31,27 @@
 * Languages: C, Python, Bash, PowerShell, Javascript, C#, ASM (x86)
 * Networking: Network Protocols, Socket operations, All Core concepts of networks.
 
-**Current Statistics**
-</br>
+## Statistics
+
+<br/>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CyberForgeEx&theme=tokyonight&border_radius=20"/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/CyberForgeSmith.png" height=400 width=350/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CyberForgeEx&theme=tokyonight&border_radius=20" width="350" height="175"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/CyberForgeSmith.png" width="350" height="175"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src= "https://github-profile-trophy.vercel.app/?username=CyberForgeEx&row=1&column=6&theme=aura&no-frame=true&margin-w=5&title=Commits,MultiLanguage,Repositories,Stars,Experience,PullRequest"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CyberForgeEx&row=1&column=6&theme=aura&no-frame=true&margin-w=5&title=Commits,MultiLanguage,Repositories,Stars,Experience,PullRequest"/>
 </p>
+
+---
 
 <p align="center">
-  <em>"Anyone can write code that a computer can understand. Good programmers write code that humans can understand."</em>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Algerian&pause=1500&color=F53FF7&width=500&lines=Code+is+the+puzzle,+the+exploit+is+the+solution." align="center">
 </p>
 
-<p align="right">
-    <img src ="https://komarev.com/ghpvc/?username=CyberForgeEx&label=Profile+Views&color=blueviolet"/>
-</p>
-  
+
 ## Contact Me
 You can reach me at <vasandilaksan@gmail.com>
