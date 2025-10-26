@@ -36,7 +36,7 @@
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CyberForgeEx&theme=tokyonight&border_radius=20" width="350" height="175"/>
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=CyberForgeEx&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&v=1761497884784"/>
   <img src="https://tryhackme-badges.s3.amazonaws.com/CyberForgeSmith.png" width="350" height="175"/>
 </p>
 
