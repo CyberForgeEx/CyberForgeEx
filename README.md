@@ -35,9 +35,8 @@
 
 <br/>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CyberForgeEx&theme=tokyonight&border_radius=20" width="350" height="175"/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/CyberForgeSmith.png" width="350" height="175"/>
+<p align="center">
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=CyberForgeEx&theme=%7B%22backgroundColor%22%3A%22%23000000%22%2C%22textColor%22%3A%22%23f3e8ff%22%2C%22accentColor%22%3A%22%23a855f7%22%2C%22borderColor%22%3A%22%237c3aed%22%2C%22waterColor%22%3A%22%23a855f7%22%2C%22streakColor%22%3A%22%23c084fc%22%7D&t=187"/>
 </p>
 
 ---
@@ -48,8 +47,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Algerian&pause=1500&color=F53FF7&width=500&lines=Code+is+the+puzzle,+the+exploit+is+the+solution." align="center">
+<p align="right">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Algerian&pause=1250&color=fffffff&width=1500&lines=The+attacker+only+has+to+be+lucky+once.+The+defender+has+to+be+lucky+every+time" align="center">
 </p>
 
 
