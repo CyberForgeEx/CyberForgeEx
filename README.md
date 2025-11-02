@@ -47,10 +47,14 @@
 
 ---
 
-<p align="right">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Algerian&pause=1250&color=fffffff&width=1500&lines=The+attacker+only+has+to+be+lucky+once.+The+defender+has+to+be+lucky+every+time" align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Algerian&pause=1250&color=fffffff&width=1056&lines=The+attacker+only+has+to+be+lucky+once.+The+defender+has+to+be+lucky+every+time" align="center">
 </p>
 
 
 ## Contact Me
 You can reach me at <vasandilaksan@gmail.com>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=cyberforgeex&color=blueviolet"
+</p>
