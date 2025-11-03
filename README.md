@@ -46,9 +46,8 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Algerian&pause=1250&color=fffffff&width=1056&lines=The+attacker+only+has+to+be+lucky+once.+The+defender+has+to+be+lucky+every+time" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&center=true&vCenter=true&width=435&lines=C+programmers+never+die.+;They+are+just+cast+into+void." alt="Typing SVG" /></a>
 </p>
 
 
