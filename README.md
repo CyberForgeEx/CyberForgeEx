@@ -14,7 +14,7 @@
 
 ---
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&pause=1000&center=true&vCenter=true&width=435&lines=I+Love+to+change+the+overall+security+perspective.;Phantom" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&pause=1000&center=true&vCenter=true&width=435&lines=Independant+Security+Researcher" alt="Typing SVG" /></a>
 </p>
 
 ## Contact Me
