@@ -16,7 +16,6 @@
 
 ```yaml
 name: Vasan Dilaksan
-education:
   - "Self-Taught Developer and Security Reaseacher"
 fields_of_interests:
   - Software Development
