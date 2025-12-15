@@ -13,26 +13,6 @@
 </p>
 
 ---
-
-```yaml
-name: Vasan Dilaksan
-  - "Self-Taught Developer and Security Reaseacher"
-fields_of_interests:
-  - Software Development
-  - Offensive Security & Red Team Automation.
-  - Low-Level Systems Programming (C, Assembly)
-  - Exploit Development & Reverse Engineering
-  - Art Of NS Exploit Development.
-technical_background:
-  - Full Stack Developer
-  - Addicted to C & Malware Development.
-currently_learning:
-  - Mass Surveillance Development.
-  - Advanced Exploit Mitigation Bypasses.
-  - Modern Windows Internals & Evasion Techniques.
-```
-
----
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&pause=1000&center=true&vCenter=true&width=435&lines=Independent+Security+Researcher.;@+CyberForgeEx+Labs" alt="Typing SVG" /></a> 
 </p>
 
