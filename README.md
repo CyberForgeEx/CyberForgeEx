@@ -13,7 +13,7 @@
 </p>
 
 ---
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&pause=1000&center=true&vCenter=true&width=435&lines=Independent+Security+Researcher.;@+CyberForgeEx+Labs" alt="Typing SVG" /></a> 
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&pause=1000&center=true&vCenter=true&width=435&lines=Independent+Security+Researcher.;@+CyberForgeEx-Labs;TLOC+=+17,510+>" alt="Typing SVG" /></a> 
 </p>
 
 ## Contact Me
